@@ -27,3 +27,9 @@ My other passions are **dogs** :dog:, going to the **gym** :muscle: and **Dolly 
 ## And here are my GitHub Stats:
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=supernova-97&show_icons=true&hide_border=true)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+
+
