@@ -10,7 +10,11 @@ I already have some experience in:
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 
+I have also worked with React and Next.js, which I'm using to build my own planning / social media app called CoPlan!
+You can find it in my repository called "Capstone Project".
+
 My other passions are **dogs** :dog:, going to the **gym** :muscle: and **Dolly Parton**. :purple_heart:
+I'm also interested in AI, AI Art and Prompt Design and use MidJourney & Bing to learn how to communicate with AI.
 
 ![Dolly Parton](https://www.berklee.edu/sites/default/files/d7/bcm/Dolly%20Parton.jpg?fv=H2FMycfD) 
 
