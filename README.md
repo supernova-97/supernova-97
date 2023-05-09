@@ -1,6 +1,6 @@
 ![Intro](https://raw.githubusercontent.com/supernova-97/supernova-97/1d9a7acf852f9435c663a34468c6c917af22e5a4/header.png)
 
-I stared my coding journey in september '22 on CodeCademy. Now I'm doing the *neue Fische* coding bootcamp and hopefully will be able to find a new and exciting job afterwards. :grin: 
+I stared my coding journey in september '22 on CodeCademy. I successfully finished the "neue Fische" Web Development Bootcamp and now I'm ready to put what I've learned to good use. :grin: 
 
 I already have some experience in:
 
