@@ -14,19 +14,7 @@ I have also worked with React and Next.js, which I'm using to build my own plann
 You can find it in my repository called "Capstone Project".
 
 My other passions are **dogs** :dog:, going to the **gym** :muscle: and **Dolly Parton**. :purple_heart:
-I'm also interested in AI, AI Art and Prompt Design and use MidJourney & Bing to learn how to communicate with AI.
-
-![Dolly Parton](https://www.berklee.edu/sites/default/files/d7/bcm/Dolly%20Parton.jpg?fv=H2FMycfD) 
-
-**My favorite songs**
-
-| Song | Year | Rating |
-| :-----: | :---: | :---: |
-| Joshua | 1971 | 5/5 |
-| Jolene | 1973 | 5/5 |
-| Down from Dover | 1970 | 5/5 |
-| Baby I'm burning | 1978 | 5/5 |
-| Savin' it for you | 1987 | 5/5 |
+I'm also interested in AI, AI Art and Prompt Design and use MidJourney & ChatGPT to learn how to communicate with AI.
 
 ## And here are my GitHub Stats:
 
